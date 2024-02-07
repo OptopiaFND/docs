@@ -8,7 +8,7 @@ Optopia marks the inception of the first L2 solution utilizing Arweave as the Da
 
 ## **How Optopia works**
 
-Optopia is an EVM-compatible superchain that integrates Op Stack rollup. This integration aims to enhance baseline revenues for users and developers without altering the overall cryptocurrency user experience. Additionally, by incorporating Arweave for DA, Optopia significantly reduces transaction costs, setting a new standard for cost-effectiveness in the L2 space.
+Optopia is an EEVM Compatible Rollup that integrates OP Stack. This integration aims to enhance baseline revenues for users and developers without altering the overall cryptocurrency user experience. Additionally, by incorporating Arweave for DA, Optopia significantly reduces transaction costs, setting a new standard for cost-effectiveness in the L2 space.
 
 **OP Stack serves as a standardized, shared, and open-source development stack.** It acts as a software component that defines specific layers within the Optopia ecosystem while also functioning as a module in the existing layers.
 

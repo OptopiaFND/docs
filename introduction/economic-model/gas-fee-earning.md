@@ -1,2 +1,0 @@
-# Gas Fee Earning
-

@@ -1,6 +1,0 @@
----
-description: OPTToken
----
-
-# OPT Token
-

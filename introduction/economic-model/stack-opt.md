@@ -1,6 +1,0 @@
----
-description: Stack
----
-
-# Stack OPT
-
