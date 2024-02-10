@@ -10,5 +10,5 @@ A testnet Ethereum faucet is a tool designed for developers to obtain testnet Et
 
 ### Alchemy
 
-Th[e Alchemy Sepolia faucet](https://sepoliafaucet.com/) stands out as it is free, efficient, and does not mandate authentication. However, users have the option to log in to Alchemy to receive a higher rate of testnet Ether distribution.
+The [Alchemy Sepolia faucet](https://sepoliafaucet.com/) stands out as it is free, efficient, and does not mandate authentication. However, users have the option to log in to Alchemy to receive a higher rate of testnet Ether distribution.
 
