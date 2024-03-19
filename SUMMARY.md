@@ -2,7 +2,8 @@
 
 ## Introduction&#x20;
 
-* [About Optopia](README.md)
+* [Background](README.md)
+* [About Optopia](<README (1).md>)
 * [A Smart and Costless L2](introduction/a-smart-and-costless-l2.md)
 * [Economic Model](introduction/economic-model.md)
 

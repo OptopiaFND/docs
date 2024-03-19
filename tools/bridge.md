@@ -2,7 +2,7 @@
 
 ### **What is Optopia Bridge?**
 
-Optopia Bridge is a tool that helps you transfer tokens between different networks. You can use Optopia Bridge to send ETH and OPT tokens from mainnet or testnets Optopia.
+Optopia Bridge is a tool that helps you transfer tokens between different networks. You can use Optopia Bridge to send ETH and OPAI tokens from mainnet or testnets Optopia.
 
 ### **How much does it cost to bridge?**
 

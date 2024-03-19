@@ -3,7 +3,7 @@
 ### **Optopiascan**
 
 * Mainnet (coming coming)
-* Testnet: [https://scan-testnet.optopia.xyz](https://scan-testnet.optopia.xyz)
+* Testnet: [https://scan-testnet.optopia.ai](https://scan-testnet.optopia.ai/)
 
 ### **Etherscan**
 

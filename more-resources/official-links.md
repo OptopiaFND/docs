@@ -1,11 +1,11 @@
 # Official Links
 
-Website: [https://optopia.xyz](https://optopia.xyz)
+Website: [https://optopia.](https://optopia.xyz)[ai](https://optppia.ai)
 
-Twitter: [https://twitter.com/Optopia\_xyz](https://twitter.com/Optopia\_xyz)
+Twitter: [https://twitter.com/Optopia\_AI](https://twitter.com/Optopia\_AI)
 
-Email: hello@optopia.xyz
+Email: hello@optopia.ai
 
-Discord: [https://discord.com/invite/BFr9hXPDY6](https://discord.com/invite/BFr9hXPDY6)
+Discord: [discord.gg/BFr9hXPDY6](https://t.co/RnhgvWMa9e)
 
 Miror: [https://mirror.xyz/0x384F32e132501C9C3361C0495841715585164d33](https://mirror.xyz/0x384F32e132501C9C3361C0495841715585164d33)&#x20;
