@@ -25,7 +25,7 @@ Comming soon.
 3. Select "Add network" and then choose "Add a network manually".
 4. In the opened "Add a network manually" dialog, input the following Optopia test network information: \
    \
-   Network Name: **Optopia testnet** \
+   Network Name: **OPTOPIA Testnet** \
    RPC Endpoint: **https://rpc-testnet.optopia.ai**\
    Chain ID: **42157** \
    Currency Symbol: **ETH** \
