@@ -5,6 +5,7 @@
 * [Backstory](README.md)
 * [Optopia.ai](introduction/optopia.ai.md)
 * [Economic Model](introduction/economic-model.md)
+* [Smart and Cost-Efficient Layer 2](introduction/smart-and-cost-efficient-layer-2.md)
 
 ## Building&#x20;
 
