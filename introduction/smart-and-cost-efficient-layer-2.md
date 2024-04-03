@@ -4,7 +4,7 @@
 
 In the rapidly evolving landscape of blockchain technology, scalability and efficiency are paramount for achieving widespread adoption, Optopia’s mission is to establish new AI standards and explore AI application scenarios.
 
-Optopia innovatively adopt a Layer 2 solution, directly addressing the scalability challenges faced by Ethereum and other blockchain networks. We emphasize empowering AI applications and promoting the implementation and adoption of artificial intelligence.&#x20;
+Optopia innovatively adopt a Layer 2 solution, directly addressing the scalability challenges faced by Ethereum and other blockchain networks. We emphasize empowering AI applications and promoting the implementation and adoption of artificial intelligence. By harnessing the power of [4EVERLAND’s Rollups as a Service (RaaS)](https://docs.4everland.org/raas-beta/4ever-rollup-stack), Optopia offers a smart and cost-effective approach to scaling decentralized AI applications.
 
 ## How Optopia works
 
