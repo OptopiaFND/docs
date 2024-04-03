@@ -27,7 +27,7 @@ Comming soon.
    \
    Network Name: **OPTOPIA Testnet** \
    RPC Endpoint: [**https://rpc-testnet.optopia.ai**](https://rpc-testnet.optopia.ai/)\
-   Chain ID: **42069** \
+   Chain ID: **62049**\
    Currency Symbol: **ETH** \
    Block Explorer: [**https://scan-testnet.optopia.ai**](ttps://scan-testnet.optopia.ai)\
 
