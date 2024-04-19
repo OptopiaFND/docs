@@ -14,11 +14,13 @@ The Optopia testnet can be added as a custom network to any EVM-compatible walle
 
 ### **Adding Optopia Testnet to MetaMask:**
 
-**Quick Guide**
+#### **Quick Guide**
 
-Comming soon.
+1. Open the [Optopia Testnet blockchain explorer](https://scan-testnet.optopia.ai/).
+2. Scroll all the way down to the bottom and locate the "**Add OPTOPIA Testnet**" option on the left, then click on it.
+3. Click on "Add" in the popup MetaMask window that appears.
 
-**Manual Guide**
+#### **Manual Guide**
 
 1. Open the MetaMask browser extension.
 2. Click the dropdown button at the top of the extension to open the network selection.
