@@ -12,7 +12,7 @@ Optopia.ai envisions creating a **decentralized network** where **anyone can fre
 
 ## Features
 
-**Optopia** employs a **Fair Launch** mechanism, devoid of team reservations, investor allocations, or pre-mining plans, ensuring transparent and equitable token distribution. Our goal is to evolve into a community-driven Op-Rollup platform characterized by fairness and innovation, with the aim of establishing a transparent and equitable artificial intelligence domain for users.
+**Optopia** is devoid of team reservations, investor allocations, or pre-mining plans, ensuring transparent and equitable token distribution. Our goal is to evolve into a community-driven Op-Rollup platform characterized by fairness and innovation, with the aim of establishing a transparent and equitable artificial intelligence domain for users.
 
 * **Fairness**: Optopia advocates for fair issuance, with most of OPAI tokens being airdropped to the community after mainnet launch, avoiding any pre-allocation to investors. Each valuable OPAI token will be distributed to all Optopia users through genuine airdrops, mining, and ecosystem funds.
 * **Empowering AI**: Optopia is Ethereum’s first L2 platform custom-tailored for artificial intelligence applications. The remaining part of OPAI tokens will be allocated to the ecosystem fund, specifically to incentivize future ecosystem projects and encourage their equitable development.
