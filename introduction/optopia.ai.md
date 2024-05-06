@@ -1,6 +1,6 @@
 # Optopia.ai
 
-**An AI utopia, Optopia.ai sets the standard for widespread adoption, fair launches, and community ownership in seamless AI-driven blockchain applications.**
+**An AI utopia, Optopia.ai sets the standard for widespread adoption, and community ownership in seamless AI-driven blockchain applications.**
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
