@@ -10,9 +10,9 @@
 
 ## Building&#x20;
 
-* [Quick Start](building/quick-start/README.md)
-  * [Optopia Network](building/quick-start/optopia-network.md)
-  * [Optopia Contracts](building/quick-start/optopia-contracts.md)
+* [Optopia Network](building/optopia-network.md)
+* [Optopia Contracts](building/optopia-contracts.md)
+* [Quick Start](building/quick-start.md)
 * [Transaction Finality](building/transaction-finality.md)
 
 ## tools
