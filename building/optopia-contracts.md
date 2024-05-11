@@ -10,19 +10,15 @@ Coming soon.
 
 ## **Testnet**
 
-**Contract Name                                                Contract Address**
+| Contract Name                | Contract Address                                                                                                                  |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| L1StandardBridgeProxy        | [ 0x4e8059f4Df6174a5a88376E4AA959B9E7f36F2c3](https://scan-testnet.optopia.ai/address/0x4e8059f4Df6174a5a88376E4AA959B9E7f36F2c3) |
+| L1ERC721BridgeProxy          |  [0xAFc9946b25e3e93208b7E2D477680C5B6e2952be](https://scan-testnet.optopia.ai/address/0xAFc9946b25e3e93208b7E2D477680C5B6e2952be) |
+| L1CrossDomainMessengerProxy  | [0xD2CC19aA79397Cd641811Ea81F73bAc7145a8bA4](https://scan-testnet.optopia.ai/address/0xD2CC19aA79397Cd641811Ea81F73bAc7145a8bA4)  |
+| OptimismPortalProxy          | [0xEB2C00187B62418ED4A75135588b8962cB7CF5eA](https://scan-testnet.optopia.ai/address/0xEB2C00187B62418ED4A75135588b8962cB7CF5eA)  |
+| ERC20FactoryProxy            |                                                                                                                                   |
 
-L1StandardBridgeProxy          [ 0x4e8059f4Df6174a5a88376E4AA959B9E7f36F2c3](https://scan-testnet.optopia.ai/address/0x4e8059f4Df6174a5a88376E4AA959B9E7f36F2c3)
 
-L1ERC721BridgeProxy              [0xAFc9946b25e3e93208b7E2D477680C5B6e2952be](https://scan-testnet.optopia.ai/address/0xAFc9946b25e3e93208b7E2D477680C5B6e2952be)
-
-L1CrossDomain-
-
-MessengerProxy                        [0xD2CC19aA79397Cd641811Ea81F73bAc7145a8bA4](https://scan-testnet.optopia.ai/address/0xD2CC19aA79397Cd641811Ea81F73bAc7145a8bA4)
-
-OptimismPortalProxy              [ 0xEB2C00187B62418ED4A75135588b8962cB7CF5eA](https://scan-testnet.optopia.ai/address/0xEB2C00187B62418ED4A75135588b8962cB7CF5eA)
-
-OptimismMintable-
 
 ERC20FactoryProxy                [0xBD236135Bd746Af7EdDbe68D1eF8a058030BF2E0](https://scan-testnet.optopia.ai/address/0xBD236135Bd746Af7EdDbe68D1eF8a058030BF2E0)                   &#x20;
 
