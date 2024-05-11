@@ -10,7 +10,7 @@ Coming soon.
 
 ## **Testnet**
 
-Contract Name                                                Contract Address
+**Contract Name                                                Contract Address**
 
 L1StandardBridgeProxy          [ 0x4e8059f4Df6174a5a88376E4AA959B9E7f36F2c3](https://scan-testnet.optopia.ai/address/0x4e8059f4Df6174a5a88376E4AA959B9E7f36F2c3)
 
@@ -41,6 +41,52 @@ SystemConfigOwner                [0x560B0fDe42177442465A27b4cc14021f4781f49a](ht
 Guardian                                     [0x560B0fDe42177442465A27b4cc14021f4781f49a](https://scan-testnet.optopia.ai/address/0x560B0fDe42177442465A27b4cc14021f4781f49a)
 
 Challenger                                   [0x560B0fDe42177442465A27b4cc14021f4781f49a](https://scan-testnet.optopia.ai/address/0x560B0fDe42177442465A27b4cc14021f4781f49a)
+
+
+
+## **L2 Contract Addresses**
+
+
+
+**Contract Name                                   Contract Address**
+
+L2ToL1MessagePasser              [0x4200000000000000000000000000000000000016](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000016)
+
+L2CrossDomainMessenger      [0x4200000000000000000000000000000000000007](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000007)
+
+L2StandardBridge                      [0x4200000000000000000000000000000000000010](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000010)
+
+L2ERC721Bridge                         [0x4200000000000000000000000000000000000014](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000014)
+
+SequencerFeeVault                    [0x4200000000000000000000000000000000000011](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000011)
+
+OptimismMintable-
+
+ERC20Factory                             [0x4200000000000000000000000000000000000012](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000012)
+
+OptimismMintable-
+
+ERC721Factory                            [0x4200000000000000000000000000000000000017](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000017)
+
+L1Block                                           [0x4200000000000000000000000000000000000015](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000015)
+
+GasPriceOracle                            [0x420000000000000000000000000000000000000F](https://scan-testnet.optopia.ai/address/0x420000000000000000000000000000000000000F)
+
+ProxyAdmin                                   [0x4200000000000000000000000000000000000018](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000018)
+
+BaseFeeVault                                [0x4200000000000000000000000000000000000019](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000019)
+
+L1FeeVault                                     [0x420000000000000000000000000000000000001A](https://scan-testnet.optopia.ai/address/0x420000000000000000000000000000000000001A)
+
+GovernanceToken                        [0x4200000000000000000000000000000000000042](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000042)
+
+SchemaRegistry                          [0x4200000000000000000000000000000000000020](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000020)
+
+EAS                                                 [0x4200000000000000000000000000000000000021](https://scan-testnet.optopia.ai/address/0x4200000000000000000000000000000000000021)
+
+
+
+
 
 
 
