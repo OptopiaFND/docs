@@ -1,6 +1,6 @@
 # Official Links
 
-Website: [https://optopia.](https://optopia.xyz)[ai](https://optppia.ai)
+Website: [https://www.optopia.ai/](https://www.optopia.ai/)
 
 Twitter: [https://twitter.com/Optopia\_AI](https://twitter.com/Optopia\_AI)
 
