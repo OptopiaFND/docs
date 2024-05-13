@@ -12,7 +12,6 @@
 
 * [Optopia Network](building/optopia-network.md)
 * [Optopia Contracts](building/optopia-contracts.md)
-* [Quick Start](building/quick-start.md)
 * [Transaction Finality](building/transaction-finality.md)
 
 ## tools
