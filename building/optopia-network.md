@@ -6,7 +6,17 @@ description: Network
 
 ## **Mainnet**
 
-Coming soon.
+infoURL: "[https://optopia.ai](https://optopia.ai)",&#x20;
+
+shortName: "Optopia", "
+
+chainId: 62050,&#x20;
+
+rpc: "[https://rpc-mainnet.optopia.ai](https://rpc-mainnet.optopia.ai)", "[https://rpc-mainnet-2.optopia.ai](https://rpc-mainnet-2.optopia.ai)"&#x20;
+
+scan: "[https://scan.optopia.ai](https://scan.optopia.ai)"&#x20;
+
+bridges: "[https://bridge.optopia.ai](https://bridge.optopia.ai)"
 
 ## **Testnet**
 
