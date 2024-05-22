@@ -8,7 +8,7 @@ description: Network
 
 infoURL: "[https://optopia.ai](https://optopia.ai)",&#x20;
 
-shortName: "Optopia",&#x20;
+Optopia Mainnet : "Optopia",&#x20;
 
 chainId: "62050",&#x20;
 
