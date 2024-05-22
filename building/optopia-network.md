@@ -8,15 +8,15 @@ description: Network
 
 infoURL: "[https://optopia.ai](https://optopia.ai)",&#x20;
 
-shortName: "Optopia", "
+shortName: "Optopia",&#x20;
 
-chainId: 62050,&#x20;
+chainId: "62050",&#x20;
 
-rpc: "[https://rpc-mainnet.optopia.ai](https://rpc-mainnet.optopia.ai)", "[https://rpc-mainnet-2.optopia.ai](https://rpc-mainnet-2.optopia.ai)"&#x20;
+rpc: "[https://rpc-mainnet.optopia.ai](https://rpc-mainnet.optopia.ai)", "[https://rpc-mainnet-2.optopia.ai](https://rpc-mainnet-2.optopia.ai)" ,
 
-scan: "[https://scan.optopia.ai](https://scan.optopia.ai)"&#x20;
+scan: "[https://scan.optopia.ai](https://scan.optopia.ai)" ,
 
-bridges: "[https://bridge.optopia.ai](https://bridge.optopia.ai)"
+bridges: "[https://bridge.optopia.ai](https://bridge.optopia.ai)".
 
 ## **Testnet**
 
