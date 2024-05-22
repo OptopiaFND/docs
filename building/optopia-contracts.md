@@ -6,7 +6,22 @@ description: Optopia
 
 ## **Mainnet**
 
-Coming soon.
+
+
+| Contract Name                     | Contract Address                                                                                                         |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| L1StandardBridgeProxy             | [0x1adE86B9cc8a50Db747b7aaC32E8527d42c71fC1](https://scan.optopia.ai/address/0x1adE86B9cc8a50Db747b7aaC32E8527d42c71fC1) |
+| L1ERC721BridgeProxy               | [0xAFc9946b25e3e93208b7E2D477680C5B6e2952be](https://scan.optopia.ai/address/0xAFc9946b25e3e93208b7E2D477680C5B6e2952be) |
+| L1CrossDomainMessengerProxy       | [0x03D5bc58E7b7E13ba785F67AFA2d2fC49cB2BdF3](https://scan.optopia.ai/address/0x03D5bc58E7b7E13ba785F67AFA2d2fC49cB2BdF3) |
+| OptimismPortalProxy               | [0x39A90926306E11497EC5FE1C459910258B620edD](https://scan.optopia.ai/address/0x39A90926306E11497EC5FE1C459910258B620edD) |
+| OptimismMintableERC20FactoryProxy | [0xB77d3ea899ef38c464e19F5A6CBc5a37187DC43c](https://scan.optopia.ai/address/0xB77d3ea899ef38c464e19F5A6CBc5a37187DC43c) |
+| L2OutputOracleProxy               | [0xdd80E05004f40815EaEf12ffeE69c2a8A5112aA5](https://scan.optopia.ai/address/0xdd80E05004f40815EaEf12ffeE69c2a8A5112aA5) |
+| SystemConfigProxy                 | [0x94118F86eE37Fa4Fdb266CDab1e55B8F0D6959D9](https://scan.optopia.ai/address/0x94118F86eE37Fa4Fdb266CDab1e55B8F0D6959D9) |
+| ProxyAdmin                        | [0x161aF05fA6BdA1c6E7Ee12839d470931bA796948](https://scan.optopia.ai/address/0x161aF05fA6BdA1c6E7Ee12839d470931bA796948) |
+| AddressManager                    | [0x039A3B4AF85A91626f428b8B881603b6DD1f6C4C](https://scan.optopia.ai/address/0x039A3B4AF85A91626f428b8B881603b6DD1f6C4C) |
+| ProxyAdminOwner                   | [0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE](https://scan.optopia.ai/address/0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE) |
+| Guardian                          | [0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE](https://scan.optopia.ai/address/0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE) |
+| Challenger                        | [0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE](https://scan.optopia.ai/address/0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE) |
 
 ## **Testnet**
 
