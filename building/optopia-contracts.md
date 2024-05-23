@@ -6,8 +6,6 @@ description: Optopia
 
 ## **Mainnet**
 
-
-
 | Contract Name                     | Contract Address                                                                                                         |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | L1StandardBridgeProxy             | [0x1adE86B9cc8a50Db747b7aaC32E8527d42c71fC1](https://scan.optopia.ai/address/0x1adE86B9cc8a50Db747b7aaC32E8527d42c71fC1) |
@@ -22,6 +20,26 @@ description: Optopia
 | ProxyAdminOwner                   | [0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE](https://scan.optopia.ai/address/0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE) |
 | Guardian                          | [0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE](https://scan.optopia.ai/address/0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE) |
 | Challenger                        | [0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE](https://scan.optopia.ai/address/0xd01De08Cc118Cc1a1b39c54c8b4ff02A8ADE63eE) |
+
+## **L2 Contract Addresses**
+
+| Contract Name                 | Contract Address                                                                                                         |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| L2ToL1MessagePasser           | [0x4200000000000000000000000000000000000016](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000016) |
+| L2CrossDomainMessenger        | [0x4200000000000000000000000000000000000007](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000007) |
+| L2StandardBridge              | [0x4200000000000000000000000000000000000010](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000010) |
+| L2ERC721Bridge                | [0x4200000000000000000000000000000000000014](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000014) |
+| SequencerFeeVault             | [0x4200000000000000000000000000000000000011](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000011) |
+| OptimismMintableERC20Factory  | [0x4200000000000000000000000000000000000012](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000012) |
+| OptimismMintableERC721Factory | [0x4200000000000000000000000000000000000017](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000017) |
+| L1Block                       | [0x4200000000000000000000000000000000000015](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000015) |
+| GasPriceOracle                | [0x420000000000000000000000000000000000000F](https://scan.optopia.ai/address/0x420000000000000000000000000000000000000F) |
+| ProxyAdmin                    | [0x4200000000000000000000000000000000000018](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000018) |
+| BaseFeeVault                  | [0x4200000000000000000000000000000000000019](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000019) |
+| L1FeeVault                    | [0x420000000000000000000000000000000000001A](https://scan.optopia.ai/address/0x420000000000000000000000000000000000001A) |
+| GovernanceToken               | [0x4200000000000000000000000000000000000042](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000042) |
+| SchemaRegistry                | [0x4200000000000000000000000000000000000020](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000020) |
+| EAS                           | [0x4200000000000000000000000000000000000021](https://scan.optopia.ai/address/0x4200000000000000000000000000000000000021) |
 
 ## **Testnet**
 
