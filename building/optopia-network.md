@@ -22,7 +22,7 @@ description: Network
 
 | Name            | Value                                                             |
 | --------------- | ----------------------------------------------------------------- |
-| Network Name    | OPTOPIA Testnet                                                   |
+| Network Name    | Optopia  Testnet                                                  |
 | RPC Endpoint    | [https://rpc-testnet.optopia.ai](https://rpc-testnet.optopia.ai/) |
 | Chain ID        | 62049                                                             |
 | Currency Symbol | ETH                                                               |
