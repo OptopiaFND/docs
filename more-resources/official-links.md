@@ -4,7 +4,7 @@ Website: [https://www.optopia.ai/](https://www.optopia.ai/)
 
 Twitter: [https://twitter.com/Optopia\_AI](https://twitter.com/Optopia\_AI)
 
-Email: hello@optopia.ai
+Email: [hello@optopia.ai](mailto:hello@optopia.ai)
 
 Discord: [discord.gg/BFr9hXPDY6](https://t.co/RnhgvWMa9e)
 
