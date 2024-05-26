@@ -30,3 +30,6 @@ For more details about deposit and withdrawal, you can refer to the official doc
 
 
 
+## How to withdraw from Optopia <a href="#how-to-withdraw-from-blast" id="how-to-withdraw-from-blast"></a>
+
+Withdrawals from Optopia require multiple steps. The process is similar to withdrawing from Optimism. Withdrawals take approximately 7 days to complete.&#x20;
