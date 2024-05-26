@@ -17,7 +17,9 @@
 
 ## tools
 
-* [Bridge](tools/bridge.md)
+* [Bridge](tools/bridge/README.md)
+  * [Mainnet](tools/bridge/mainnet.md)
+  * [Testnet](tools/bridge/testnet.md)
 * [Faucets](tools/faucets.md)
 * [Block Explorers](tools/block-explorers.md)
 
