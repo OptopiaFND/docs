@@ -14,5 +14,7 @@ The [Alchemy Sepolia faucet](https://sepoliafaucet.com/) stands out as it is fre
 
 ### Bridging Sepolia ETH to Optopia Sepolia(Testnet)
 
-Once you’ve acquired some Sepolia ETH, you can transfer it to use on Optopia Sepolia by sending it to the Optopia L1 StandardBridge as demonstrated
+Once you’ve acquired some Sepolia ETH, youc can  transfer it to Optopia Sepolia through [Bridge](https://bridge-testnet.optopia.ai/deposit).
+
+
 

@@ -8,7 +8,7 @@ Backed by Framework, Lightspeed, and the Gnosis Safe team.
 
 
 
-Optopia assets can be properly processed through Git repository information：[https://github.com/safe-global/safe-wallet-web/releases/tag/v1.31.0](https://github.com/safe-global/safe-wallet-web/releases/tag/v1.31.0)
+Optopia assets can be properly processed through [Git repository information](https://github.com/safe-global/safe-wallet-web/releases/tag/v1.31.0)
 
 Mainnet：[https://safe-wallet.optopia.ai](https://safe-wallet.optopia.ai)
 
