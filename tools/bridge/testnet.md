@@ -8,4 +8,4 @@ After the deposit transaction is mined, the balance will be credited on the L2 a
 
 #### [​](https://docs.blast.io/building/bridges/testnet#eth)ETH <a href="#eth" id="eth"></a>
 
-Transfer ETH via the tool of your choice to the following bridge address on Ethereum Sepolia: . Do not transfer mainnet ETH to this address.
+Transfer ETH via the tool of your choice to the following bridge address on Ethereum Sepolia:[0x4e8059f4Df6174a5a88376E4AA959B9E7f36F2c3](https://sepolia.etherscan.io/address/0x4e8059f4Df6174a5a88376E4AA959B9E7f36F2c3) . Do not transfer mainnet ETH to this address.
