@@ -24,4 +24,4 @@ Bridging to  Optopia Mainnet Programatically is for experienced users only:&#x20
 
 In order to bridge you just need to send ETH to the Bridge contract in the Ethereum Mainnet network and it will bridge the tokens to the Optopia Mainnet network. Please note that this process might take up to 10 minutes to complete.
 
-This is the Mainnet Bridge address on Ethereum:&#x20;
+This is the Mainnet Bridge address on Ethereum: 0x39A90926306E11497EC5FE1C459910258B620edD
