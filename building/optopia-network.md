@@ -16,6 +16,16 @@ description: Network
 | Currency Symbol | ETH                                                                                                                                    |
 | Block Explorer  | [https://scan.optopia.ai](https://scan.optopia.ai")                                                                                    |
 
+| Name            | Value                                                                                                                                                                     |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Network Name    | Optopia Mainnet                                                                                                                                                           |
+| RPC Endpoint    | <p><a href="https://rpc-mainnet.optopia.ai">https://rpc-mainnet.optopia.ai</a>,</p><p><a href="https://rpc-mainnet-2.optopia.ai">https://rpc-mainnet-2.optopia.ai</a></p> |
+| Chain ID        | 62050                                                                                                                                                                     |
+| Currency Symbol | ETH                                                                                                                                                                       |
+| Block Explorer  |  [https://scan.optopia.ai](https://scan.optopia.ai)                                                                                                                       |
+
+
+
 ## **Testnet**
 
 
@@ -30,3 +40,6 @@ description: Network
 
 
 
+
+
+####

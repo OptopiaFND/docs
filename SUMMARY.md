@@ -20,9 +20,11 @@
 * [Bridge](tools/bridge/README.md)
   * [Mainnet](tools/bridge/mainnet.md)
   * [Testnet](tools/bridge/testnet.md)
+  * [Bridge to Optopia](tools/bridge/bridge-to-optopia.md)
 * [Faucets](tools/faucets.md)
-* [Block Explorers](tools/block-explorers.md)
 * [Safe wallet](tools/safe-wallet.md)
+* [Block Explorers](tools/block-explorers.md)
+* [Safe wallet](tools/safe-wallet-1.md)
 
 ## more resources
 
