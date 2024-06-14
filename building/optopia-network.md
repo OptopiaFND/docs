@@ -8,14 +8,6 @@ description: Network
 
 
 
-| Name            | Value                                                                                                                                  |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Network Name    | Optopia Mainnet                                                                                                                        |
-| RPC Endpoint    | [https://rpc-mainnet.optopia.ai](https://rpc-mainnet.optopia.ai); [https://rpc-mainnet-2.optopia.ai](https://rpc-mainnet-2.optopia.ai) |
-| Chain ID        | 62050                                                                                                                                  |
-| Currency Symbol | ETH                                                                                                                                    |
-| Block Explorer  | [https://scan.optopia.ai](https://scan.optopia.ai")                                                                                    |
-
 | Name            | Value                                                                                                                                                                     |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Network Name    | Optopia Mainnet                                                                                                                                                           |
