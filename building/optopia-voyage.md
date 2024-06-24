@@ -1,5 +1,7 @@
 # Optopia Voyage
 
+Currently, Optopia has introduced four incentive programs, Stellar Port, Wisdom Vault, Resource Nexus and Crystal Sands Quarry, which allow users to earn points by completing simple tasks. These initial point rewards directly correspond to the distribution of tokens once they are launched.
+
 ## Stellar Port
 
 The Stellar Port program consists of two tasks: Pioneer's Quest and the Invite Quest. By completing the Pioneer's Quest, participants can earn a Stellar Frontier Visa (SFV), while completing the invite task can lead to additional rewards.
