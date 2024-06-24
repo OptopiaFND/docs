@@ -7,13 +7,13 @@
 * [Economic Model](introduction/economic-model.md)
 * [Smart and Cost-Efficient Layer 2](introduction/smart-and-cost-efficient-layer-2.md)
 * [Intent Publishing Hub Framework](introduction/intent-publishing-hub-framework.md)
+* [Optopia Voyage](introduction/optopia-voyage.md)
 
 ## Building&#x20;
 
 * [Optopia Network](building/optopia-network.md)
 * [Optopia Contracts](building/optopia-contracts.md)
 * [Token Addresses](building/token-addresses.md)
-* [Optopia Voyage](building/optopia-voyage.md)
 * [Transaction Finality](building/transaction-finality.md)
 
 ## tools
