@@ -4,7 +4,7 @@ As the final glimmer of sunlight vanishes from the horizon of the Optopia planet
 
 OPAI, the enigmatic energy substance, serves as the source of life for the Optopia planet. It contains boundless energy capable of powering the AI perpetual energy towers, launching interstellar spacecraft, sustaining city operations, and even prolonging human life...
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **In the Wings of Artificial Intelligence: A New Beginning for the Interstellar Golden Age**&#x20;
 

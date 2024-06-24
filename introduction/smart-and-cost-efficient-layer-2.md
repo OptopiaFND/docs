@@ -16,7 +16,7 @@ Optopia seamlessly integrates with the Ethereum ecosystem, providing full compat
 
 ## Technical Architecture
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ### OP Stack

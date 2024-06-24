@@ -1,10 +1,10 @@
-# $OPAI Framework
+# Intent Publishing Hub Framework
 
 The OPAI token framework is a fundamental component of Optopia that empowers various roles within the AI ecosystem. It consists of four key roles: Intent Publisher, AI Agent, Builder, and OPAI Holder. Each role plays a specific part in the incentivization and governance of the AI applications facilitated by Optopia.
 
 ## Roles and Interactions
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Intent Publisher
 

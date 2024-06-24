@@ -13,6 +13,7 @@
 * [Optopia Network](building/optopia-network.md)
 * [Optopia Contracts](building/optopia-contracts.md)
 * [Token Addresses](building/token-addresses.md)
+* [Optopia Voyage](building/optopia-voyage.md)
 * [Transaction Finality](building/transaction-finality.md)
 
 ## tools

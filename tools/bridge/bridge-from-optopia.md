@@ -14,11 +14,11 @@ Optopia's bridge is a fork of Optimism's canonical bridge. With Optimism's Bedro
 
 First, go to [Optopia's Bridge](https://bridge.optopia.ai/), click on withdraw, choose 「Use the official bridge」 ,select the token and input the amount you want to withdraw.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on **`Review Withdrawal`** , then check the 7 days checkbox and initiate the withdrawal.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can see the transaction status of your withdrwal in the [**`Transactions`**](https://bridge.optopia.ai/withdraw) section
 
@@ -30,18 +30,18 @@ Make sure you have ETH on Ethereum to pay for gas.
 
 2、After waiting for 1 hour, your transaction should be ready to "Prove withdrawal".
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now click **`Prove`** and submit the transaction, this will start the 7 day waiting period for the withdrawal.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、Finalize Withdrawals
 
 After proving the transaction you will have to wait 7 days until the status of the transaction is ready to finalise.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can now click **`Claim`** and after approving the transcation you should see the funds in your wallet on the Ethereum network shortly. The fees paid here are on Ethereum network.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
