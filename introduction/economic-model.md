@@ -34,17 +34,33 @@ The distribution of OPAI tokens within the Optopia ecosystem is carefully design
 * The remaining 40% will be allocated over the following year in multiple phases to future airdrops, rewards, and additional Booster Events to further promote the development of the Optopia network.
 
 \
-**Ecosystem Fund: 25% (2.5 Billion)**2.5 billion OPAI tokens have been allocated to the foundation's ecosystem fund, set to unlock over a 24-month period. These tokens will be used to support ecosystem development and various activities, such as development operations, ecosystem incentives, and research and development. The specific allocation of these tokens will be determined by the community and the Optopia team through governance voting.\
-**Community: 10% (1 Billion)**1 billion OPAI tokens will be reserved for the community, set to unlock over a 24-month period. These tokens will be used as future community incentives and contributor rewards, providing operational flexibility for the Optopia project.\
-**Marketing: 5% (500 Million)**500 million OPAI tokens will be allocated for market operations, marketing activities, and the establishment of strategic partnerships, with a 12-month vesting period. These tokens will help promote the Optopia platform and facilitate collaboration with relevant stakeholders.\
-**Token Sale: 7% (700 Million)**700 million OPAI tokens will be assigned to early investors in Optopia. This category includes participants from Launchpad/IDO, KOL funding rounds, and private funding rounds.
+**Ecosystem Fund: 25% (2.5 Billion)**
+
+2.5 billion OPAI tokens have been allocated to the foundation's ecosystem fund, set to unlock over a 24-month period. These tokens will be used to support ecosystem development and various activities, such as development operations, ecosystem incentives, and research and development. The specific allocation of these tokens will be determined by the community and the Optopia team through governance voting.
+
+\
+**Community: 10% (1 Billion)**
+
+1 billion OPAI tokens will be reserved for the community, set to unlock over a 24-month period. These tokens will be used as future community incentives and contributor rewards, providing operational flexibility for the Optopia project.
+
+\
+**Marketing: 5% (500 Million)**
+
+500 million OPAI tokens will be allocated for market operations, marketing activities, and the establishment of strategic partnerships, with a 12-month vesting period. These tokens will help promote the Optopia platform and facilitate collaboration with relevant stakeholders.
+
+\
+**Token Sale: 7% (700 Million)**
+
+700 million OPAI tokens will be assigned to early investors in Optopia. This category includes participants from Launchpad/IDO, KOL funding rounds, and private funding rounds.
 
 * **Private Sale:** 350 million OPAI tokens will be allocated to early private investors, with a 12-month vesting schedule.
 * **Public Sale:** 300 million OPAI tokens will be allocated to IDO participants, 50% of the tokens will be unlocked at TGE, while the remaining tokens will be gradually released over the next two months.
 * **KOL Round:** 50 million OPAI tokens will be allocated for the KOL funding round, 25% of the tokens will be unlocked at TGE, while the remaining tokens will be gradually released over the next three months.
 
 \
-**Initial Liquidity & MM Fund: 3% (300 Million)**300 million OPAI tokens will be dedicated to LP (liquidity pool) operations. These tokens will provide initial liquidity and help mitigate volatility within the Optopia ecosystem.
+**Initial Liquidity & MM Fund: 3% (300 Million)**
+
+300 million OPAI tokens will be dedicated to LP (liquidity pool) operations. These tokens will provide initial liquidity and help mitigate volatility within the Optopia ecosystem.
 
 <figure><img src="../.gitbook/assets/02 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -89,4 +105,6 @@ The Optopia community airdrop aims to distribute OPAI tokens fairly, ensuring th
 
 #### More Season
 
-More Booster Events will be rolled out gradually over the course of a year, and we are committed to rewarding OPAI Tokens to all users who contribute to the Optopia ecosystem in a fair and transparent manner.Booster Event Season 1 is currently underway and participants can win **Points Reward** and **Family Reward** for free. **Read more:** **https://docs.optopia.ai/introduction/optopia-voyageGas Mining will be officially launched soon. Please stay tuned for the official announcement.**
+More Booster Events will be rolled out gradually over the course of a year, and we are committed to rewarding OPAI Tokens to all users who contribute to the Optopia ecosystem in a fair and transparent manner.Booster Event Season 1 is currently underway and participants can win **Points Reward** and **Family Reward** for free.
+
+&#x20;**Read more:** **https://docs.optopia.ai/introduction/optopia-voyageGas Mining will be officially launched soon. Please stay tuned for the official announcement.**
