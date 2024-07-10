@@ -19,7 +19,9 @@ Overall, the OPAI token framework is essential for driving participation, facili
 ## Distribution of OPAI Tokens
 
 The distribution of OPAI tokens within the Optopia ecosystem is carefully designed to support the growth and sustainability of AI applications on the platform. By allocating tokens to various aspects such as foundation reserves, booster events, LP operations, market activities, early investors, and community airdrops, Optopia aims to create a vibrant and inclusive ecosystem that fosters innovation and collaboration in the field of artificial intelligence.\
-Overview
+
+
+**Overview**
 
 * Total Supply: 10,000,000,000 tokens
 * Token Contract: Not yet deployed
