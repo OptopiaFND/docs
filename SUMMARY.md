@@ -7,6 +7,7 @@
 * [Economic Model](introduction/economic-model.md)
 * [Smart and Cost-Efficient Layer 2](introduction/smart-and-cost-efficient-layer-2.md)
 * [Intent Publishing Hub Framework](introduction/intent-publishing-hub-framework.md)
+* [OPAI Tokenomics](introduction/opai-tokenomics.md)
 * [Optopia Voyage](introduction/optopia-voyage.md)
 
 ## Building&#x20;
