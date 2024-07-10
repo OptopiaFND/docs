@@ -109,4 +109,6 @@ The Optopia community airdrop aims to distribute OPAI tokens fairly, ensuring th
 
 More Booster Events will be rolled out gradually over the course of a year, and we are committed to rewarding OPAI Tokens to all users who contribute to the Optopia ecosystem in a fair and transparent manner.Booster Event Season 1 is currently underway and participants can win **Points Reward** and **Family Reward** for free.
 
-**Read more:** **https://docs.optopia.ai/introduction/optopia-voyageGas Mining will be officially launched soon. Please stay tuned for the official announcement.**
+[**Read more**](https://docs.optopia.ai/introduction/optopia-voyage)
+
+**Gas Mining will be officially launched soon. Please stay tuned for the official announcement.**
