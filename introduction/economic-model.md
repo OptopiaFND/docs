@@ -28,7 +28,9 @@ The distribution of OPAI tokens within the Optopia ecosystem is carefully design
 
 <figure><img src="../.gitbook/assets/112 (2).JPEG" alt=""><figcaption></figcaption></figure>
 
-**Booster Event: 50% (5 Billion)**5 billion OPAI tokens will be allocated for the Booster Event. This event will be conducted in multiple phases to ensure a fair and transparent launch of Optopia.
+**Booster Event: 50% (5 Billion)**
+
+5 billion OPAI tokens will be allocated for the Booster Event. This event will be conducted in multiple phases to ensure a fair and transparent launch of Optopia.
 
 * 10% of the tokens will be allocated to Booster Event Season 1 for the Optopia Voyage event, serving as the airdrop and reward budget (2%) and gas mining (8%). These tokens will be fully unlocked at the time of the TGE.
 * The remaining 40% will be allocated over the following year in multiple phases to future airdrops, rewards, and additional Booster Events to further promote the development of the Optopia network.
@@ -107,4 +109,4 @@ The Optopia community airdrop aims to distribute OPAI tokens fairly, ensuring th
 
 More Booster Events will be rolled out gradually over the course of a year, and we are committed to rewarding OPAI Tokens to all users who contribute to the Optopia ecosystem in a fair and transparent manner.Booster Event Season 1 is currently underway and participants can win **Points Reward** and **Family Reward** for free.
 
-&#x20;**Read more:** **https://docs.optopia.ai/introduction/optopia-voyageGas Mining will be officially launched soon. Please stay tuned for the official announcement.**
+**Read more:** **https://docs.optopia.ai/introduction/optopia-voyageGas Mining will be officially launched soon. Please stay tuned for the official announcement.**
