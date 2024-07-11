@@ -24,7 +24,7 @@ The distribution of OPAI tokens within the Optopia ecosystem is carefully design
 ### Overview
 
 * Total Supply: 10,000,000,000 tokens
-* Token Contract: Not yet deployed
+* Token Contract: 0xF8e57AC2730D3088D98B79209739b0D5Ba085a03
 
 <figure><img src="../.gitbook/assets/112 (2).JPEG" alt=""><figcaption></figcaption></figure>
 
