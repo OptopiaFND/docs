@@ -1,4 +1,4 @@
-# Economic Model
+# Tokenomics
 
 <figure><img src="../.gitbook/assets/09 (1).JPEG" alt=""><figcaption></figcaption></figure>
 
@@ -57,13 +57,29 @@ The distribution of OPAI tokens within the Optopia ecosystem is carefully design
 * **Public Sale:** 300 million OPAI tokens will be allocated to IDO participants, 50% of the tokens will be unlocked at TGE, while the remaining tokens will be gradually released over the next two months.
 * **KOL Round:** 50 million OPAI tokens will be allocated for the KOL funding round, 25% of the tokens will be unlocked at TGE, while the remaining tokens will be gradually released over the next three months.
 
-
-
 ### Initial Liquidity & MM Fund: 3%(300 Million)
 
 300 million OPAI tokens will be dedicated to LP (liquidity pool) operations. These tokens will provide initial liquidity and help mitigate volatility within the Optopia ecosystem.
 
+
+
+## Token Allocation
+
 <figure><img src="../.gitbook/assets/02 (2).jpeg" alt=""><figcaption></figcaption></figure>
+
+
+
+| Token Allocation            | Token(%) | Max Supply     | Cliff(month) | Vesting(month) | TGE Supply       | Addresses(Ethereum)                                                                                    |
+| --------------------------- | -------- | -------------- | ------------ | -------------- | ---------------- | ------------------------------------------------------------------------------------------------------ |
+| Booster Event               | 50.00%   | 5,000,000,000  | 3            | 12             | 1,000,000,000.00 | [Booster Event](https://etherscan.io/address/0xC4fC8Ad2224c891704377Dd96638714e0D74CAeE)               |
+| Initial Liquidity & MM Fund | 3.00%    | 300,000,000    | \_           | 0              | 300,000,000.00   | [Initial Liquidity & MM Fund](https://etherscan.io/address/0x656Fb982965FF8b1eB9c34E3fd6D219b57299A8a) |
+| Private Sale                | 3.50%    | 350,000,000    | \_           | 12             | -                | [Token Sale](https://etherscan.io/address/0x63083e0e4B363f94421c7d7e13147732E1b7090C)                  |
+| Public Sale                 | 3.00%    | 300,000,000    | \_           | 2              | 150,000,000.00   | [Token Sale](https://etherscan.io/address/0x63083e0e4B363f94421c7d7e13147732E1b7090C)                  |
+| KOL Round                   | 0.50%    | 50,000,000     | \_           | 3              | 12,500,000.00    | [Token Sale](https://etherscan.io/address/0x63083e0e4B363f94421c7d7e13147732E1b7090C)                  |
+| Marketing                   | 5.00%    | 500,000,000    | \_           | 12             | -                | [Marketing](https://etherscan.io/address/0xfff94E46e276518516861D471B1042897586A42F)                   |
+| Ecosystem Fund              | 25.00%   | 2,500,000,000  | \_           | 24             | -                | [Ecosystem Fund](https://etherscan.io/address/0xe00fc877f8ec233b905c6a38823945cfd09fbe8b)              |
+| Community                   | 10.00%   | 1,000,000,000  | \_           | 24             | -                | [Community](https://etherscan.io/address/0xea17d4033979c2cc7fd74b609138260e3012334b)                   |
+| Total                       | 100.00%  | 10,000,000,000 | \_           |                | 1,462,500,000    |                                                                                                        |
 
 ## Booster Event: Launching Optopia Fairly and Transparently
 
