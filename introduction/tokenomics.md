@@ -24,7 +24,7 @@ The distribution of OPAI tokens within the Optopia ecosystem is carefully design
 ### Overview
 
 * Total Supply: 10,000,000,000 tokens
-* Token Contract: 0xF8e57AC2730D3088D98B79209739b0D5Ba085a03
+* Token Contract: [$OPAI(Ethereum) ](https://etherscan.io/address/0xF8e57AC2730D3088D98B79209739b0D5Ba085a03),[$OPAI(Optopia)](https://scan.optopia.ai/token/0xF4C3a4d9568672FB4A8174EfD29dDAB6255E8729)
 
 <figure><img src="../.gitbook/assets/112 (2).JPEG" alt=""><figcaption></figcaption></figure>
 
