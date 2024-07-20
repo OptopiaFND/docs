@@ -8,6 +8,7 @@
 * [Smart and Cost-Efficient Layer 2](introduction/smart-and-cost-efficient-layer-2.md)
 * [Intent Publishing Hub Framework](introduction/intent-publishing-hub-framework.md)
 * [Optopia Voyage](introduction/optopia-voyage.md)
+* [Gas mining Tutorial](introduction/gas-mining-tutorial.md)
 
 ## Building&#x20;
 
